@@ -1,16 +1,13 @@
-## Hi there 👋
+Welcome!
 
-<!--
-**jiworo/jiworo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study probabilistic models their formal math, and assist in the programming line of the AI Dept.
 
-Here are some ideas to get you started:
+Reach me at `firstname DOT lastname AT ru DOT nl`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Most Used Languages" src="https://github-readme-stats-eosin-nine-94.vercel.app/api/top-langs/?username=jiworo&layout=donut&hide_title=true&langs_count=5&exclude_repo=hci&bg_color=00000000&hide_border=true" />
+
+---
+
+I thought of computers as very low class. I thought of myself as a pure mathematician and was interested in partial differential equations and topology and things like that.
+
+-- Whitfield Diffie
